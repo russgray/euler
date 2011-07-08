@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{BC73442B-8C01-4B27-9B63-86824C8FE178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harness", "Harness\Harness.csproj", "{34996542-61DF-4980-AF98-D1F93FCE604C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC73442B-8C01-4B27-9B63-86824C8FE178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC73442B-8C01-4B27-9B63-86824C8FE178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC73442B-8C01-4B27-9B63-86824C8FE178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC73442B-8C01-4B27-9B63-86824C8FE178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34996542-61DF-4980-AF98-D1F93FCE604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34996542-61DF-4980-AF98-D1F93FCE604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34996542-61DF-4980-AF98-D1F93FCE604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34996542-61DF-4980-AF98-D1F93FCE604C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
